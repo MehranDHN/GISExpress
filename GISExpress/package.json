@@ -22,3 +22,4 @@
     "@turf/turf": "^5.1.6"
   }
 }
+SET DEBUG=gisexpress:* & npm start
